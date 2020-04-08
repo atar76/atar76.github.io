@@ -1,0 +1,74 @@
+img {
+  width: 600px;
+}
+
+ul {
+  list-style-type: round;
+}
+
+.container {
+  position: relative;
+  text-align: center;
+}
+
+.card1 {
+  position: relative;
+  bottom: 150px;
+  left: 140px;
+  font-family: 'Abril Fatface', cursive;
+  color: darkgrey;
+  font-size: 30px;
+ }
+
+.card2 {
+  position: relative;
+  bottom: 140px;
+  left: 80px;
+  font-family: 'Abril Fatface', cursive;
+  color: darkgrey;
+  font-size: 50px;
+}
+
+.cv {
+  margin-left: 2px;
+  margin-right: 2px;
+  margin-top: -80px;
+  font-size: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+  }
+
+.section {
+  position: absolute;
+  width: 100%;
+  background: #444444;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+  font-size: 50px;
+  text-align: center;
+  line-height: 160%;
+  margin: -10px -50px 50px -50px; 
+  padding: 50px 50px 50px 50px;
+}  
+
+h2 {
+  margin-top: 280px;
+  text-transform: uppercase;
+  font-weight: bold;
+}  
+
+h3 {
+  margin-top: 30px;
+  font-weight: bold;
+} 
+
+h4 {
+ margin-top: -20px;
+ font-style: italic;
+ height: 5px;
+}
+
+h5 {
+ font-style: bold;
+ text-transform: uppercase;
+ height: 20px 
+}
